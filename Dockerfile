@@ -1,4 +1,4 @@
-FROM alekseyyaroslavcev/windows-builder
+FROM alekseyyaroslavcev/windows-builder:2019-09-22
 MAINTAINER Aleksey Yaroslavcev <a.yaroslavcev@gmail.com>
 
 #Make toolchain
